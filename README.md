@@ -195,6 +195,5 @@ El artefacto se genera en la carpeta `target/` del módulo correspondiente.
 
 ## 👨‍💻 Autor
 
-- GitHub: **[Danilo-Doria](https://github.com/Danilo-Doria)**
-- LinkedIn: **[Danilo Doria Diaz](https://www.linkedin.com/in/danilodd)**
-- Mail: **danilodoria519@gmail.com**
+- GitHub: **[Danilo-Doria](https://github.com/TheplexyBoy)**
+- Mail: **andresquinteroho@gmail.com**
